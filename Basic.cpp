@@ -25,17 +25,21 @@ double average_population(std::map<std::string, std::vector<City>>, const std::s
 
 double avg(std::vector<int>);
 
-int main() {
+int main (int argc, char *argv[]) {
+
+  if(argc < 3) {
+    std::cout << "Error: expecting 2 input files" << std::endl;
+    return EXIT_FAILURE;
+  }
+
   std::map<int, std::map<std::string, std::vector<City>>> Year_Cities;
   std::vector<std::string> continents;
   int years[2];
 
   for (int i=0; i<2; i++) {
-    std::cout << "type in the name of the file to be processed (e.g. CitiesYYYY.txt): ";
-    std::string inp_file;
-    std::cin >> inp_file;
-
     int year;
+    std::string inp_file{argv[i+1]};
+    std::cout << inp_file << '\n';
     year = std::stoi(inp_file.substr(inp_file.size() - 8));
     // std::cout << year << '\n';
     years[i] = year;
