@@ -39,7 +39,6 @@ int main (int argc, char *argv[]) {
   for (int i=0; i<2; i++) {
     int year;
     std::string inp_file{argv[i+1]};
-    std::cout << inp_file << '\n';
     year = std::stoi(inp_file.substr(inp_file.size() - 8));
     // std::cout << year << '\n';
     years[i] = year;
