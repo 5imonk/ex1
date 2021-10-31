@@ -1,0 +1,13 @@
+Year,Continent,AveragePopulation,LargestCity
+1979,Africa,3901332,Cairo
+1979,Asia,7759551,Shanghai
+1979,Eurasia,5342004,Moscow
+1979,Europe,3342165,London
+1979,North America,6301296,Mexico City
+1979,South America,6512710,Sao Paulo
+2019,Africa,13341237,Cairo
+2019,Asia,14986639,Shanghai
+2019,Eurasia,13787096,Istanbul
+2019,Europe,4198766,London
+2019,North America,9198171,Mexico City
+2019,South America,11365789,Sao Paulo

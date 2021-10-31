@@ -1,0 +1,1 @@
+/usr/bin/c++  -Werror -Wall -pedantic -rdynamic CMakeFiles/Basic.dir/Basic.cpp.o -o Basic  -Wl,-rpath,"/home/simon/Documents/Numerical Simulation and Scientific Computing/ex1/build" libcity.so 

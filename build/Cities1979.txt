@@ -1,0 +1,25 @@
+Toronto,Canada,North America,2137395
+New York,United States of America,North America,7071639
+Los Angeles,United States of America,North America,2968528
+Mexico City,Mexico,North America,13027620
+Sao Paulo,Brazil,South America,8587665
+Lima,Peru,South America,4437754
+London,England,Europe,6608513
+Paris,France,Europe,2176243
+Berlin,Germany,Europe,3048759
+Vienna,Austria,Europe,1535145
+Istanbul,Turkey,Eurasia,2853500
+Moscow,Russia,Eurasia,7830509
+Lagos,Nigeria,Africa,2572218
+Cairo,Egybt,Africa,7348778
+Johannesburg,South Africa,Africa,1783000
+Baghdad,Iraq,Asia,3060000
+Shanghai,China,Asia,11859700
+Beijing,China,Asia,9230687
+Tianjin,China,Asia,7764141
+Seoul,Korea,Asia,8244352
+Tokyo,Japan,Asia,11618000
+Delhi,India,Asia,5587014
+Mumbai,India,Asia,9199543
+Karachi,Pakistan,Asia,5047815
+Jakarta,Indonesia,Asia,5984256

@@ -1,0 +1,25 @@
+Los Angeles,United States of America,North America,3990456
+Sao Paulo,Brazil,South America,12176866
+Paris,France,Europe,2241346
+Tokyo,Japan,Asia,13929286
+Lima,Peru,South America,10554712
+London,England,Europe,8908081
+Tianjin,China,Asia,15621200
+Berlin,Germany,Europe,3748148
+Vienna,Austria,Europe,1897491
+Toronto,Canada,North America,2731571
+Jakarta,Indonesia,Asia,10638689
+Moscow,Russia,Eurasia,12506468
+Lagos,Nigeria,Africa,13903620
+Cairo,Egybt,Africa,20484965
+Johannesburg,South Africa,Africa,5635127
+Baghdad,Iraq,Asia,6974000
+Istanbul,Turkey,Eurasia,15067724
+Shanghai,China,Asia,24237800
+Mexico City,Mexico,North America,21671908
+Beijing,China,Asia,21542000
+Seoul,Korea,Asia,9962393
+Delhi,India,Asia,11034555
+New York,United States of America,North America,8398748
+Mumbai,India,Asia,20185064
+Karachi,Pakistan,Asia,15741406

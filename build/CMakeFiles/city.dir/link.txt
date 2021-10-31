@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Werror -Wall -pedantic -shared -Wl,-soname,libcity.so -o libcity.so CMakeFiles/city.dir/lib/city.cpp.o 
